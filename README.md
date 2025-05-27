@@ -1,3 +1,4 @@
+# Análise e Limpeza de Dados Censitários
 Sobre o projeto
 Neste projeto, eu estou como analista de dados para ajudar minha comunidade local limpando e organizando dados censitários simulados. O objetivo é preparar os dados para futuras análises de Business Intelligence e modelagem preditiva.
 
